@@ -1,0 +1,1 @@
+WhatsApp.ahk "Sanjay" "Hello world"
